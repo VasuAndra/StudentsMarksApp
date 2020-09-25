@@ -1,1 +1,1 @@
-Team project for Software Development Class with Pascal Diana and Vochin Andreea
+Team project with Pascal Diana and Vochin Andreea for Software Development Class 
